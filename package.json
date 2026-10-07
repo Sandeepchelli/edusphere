@@ -1,0 +1,12 @@
+{
+  "name": "edusphere",
+  "version": "1.0.0",
+  "description": "EduSphere College Management System",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "cd frontend && npm install && npm run build",
+    "install-backend": "cd backend && npm install",
+    "setup": "npm run install-backend && npm run build"
+  }
+}
