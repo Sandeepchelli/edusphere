@@ -15,8 +15,6 @@ EduSphere is a complete, modern, responsive College Management System built with
 
 Upon initial initialization, the system automatically creates the root Administrator account:
 
-- **Username**: `admin`
-- **Password**: `admin123`
 - **Role**: Principal / College Administrator
 
 *Note: All student, teacher, parent, and staff accounts are dynamically created through the system and stored permanently in SQLite.*
